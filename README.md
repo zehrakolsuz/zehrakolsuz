@@ -1,4 +1,4 @@
-<h1 align="center">Hey yo!🙌🏻, I'm Zehra</h1>
+<h1 align="center">Heyyoo!🙌🏻, I'm Zehra</h1>
 <h3 align="center">Cyber Security from Turkiye </h3>
 
 <h3 align="left">Connect with me:</h3>
