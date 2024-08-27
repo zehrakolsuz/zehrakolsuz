@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Zehra</h1>
+<h3 align="center">A cyber from Turkiye</h3>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zehranurkolsuz) 
