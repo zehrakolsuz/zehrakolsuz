@@ -1,5 +1,5 @@
-<h1 align="center">Heyyo🙌🏻, I'm Zehra</h1>
-<h3 align="center">A cyber from Turkiye</h3>
+<h1 align="center">Heyyo 🙌🏻 , I'm  Zehra   </h1>
+<h3 align="center">Cyber Security from Turkiye </h3>
 
 [![](https://visitcount.itsvg.in/api?id=zehrakolsuz&icon=9&color=10)](https://visitcount.itsvg.in)
 
