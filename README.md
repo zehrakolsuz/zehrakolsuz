@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zehra</h1>
+<h1 align="center">Heyyo🙌🏻, I'm Zehra</h1>
 <h3 align="center">A cyber from Turkiye</h3>
 
 
