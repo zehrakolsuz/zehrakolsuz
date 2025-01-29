@@ -1,7 +1,7 @@
 <h1 align="center">Hey yo! , I'm  Zehra   </h1>
 <h3 align="center"> from Turkiye </h3>
 
-[![](https://visitcount.itsvg.in/api?id=zehrakolsuz&icon=9&color=10)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitcount.itsvg.in/api?id=zehrakolsuz&icon=9&color=10)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
